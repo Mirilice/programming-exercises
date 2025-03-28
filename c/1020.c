@@ -1,7 +1,7 @@
 #include <stdio.h>
- 
+
 int main() {
- 
+
     int idade, dias_restantes, anos, meses, dias;
     
     scanf("%d", &idade);

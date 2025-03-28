@@ -1,4 +1,17 @@
-# README - Cuidados com Input e Output em Programação
+# Quantidade de Questões Resolvidas por Linguagem
+
+Aqui está o número de questões que resolvi em cada linguagem até o momento 💻:
+
+| Linguagem | Questões Resolvidas |
+|-----------|---------------------|
+| Java      | 7                   |
+| Python    | 8                   |
+| C         | 3                   |
+| JavaScript| 8                   |
+| **Total** | 26                  |
+
+
+# Cuidados em Programação
 
 ## Erro de Apresentação (Presentation Error)
 
