@@ -8,7 +8,8 @@ Aqui está o número de questões que resolvi em cada linguagem até o momento �
 | Python    | 8                   |
 | C         | 5                   |
 | JavaScript| 8                   |
-| **Total** | 28                  |
+| C#        | 1                   |
+| **Total** | 29                  |
 
 
 # Cuidados em Programação
