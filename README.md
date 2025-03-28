@@ -142,7 +142,7 @@ let num = parseInt(str);
 console.log(num); // 123
 ```
 
-## Como ler mais de uma variável numa mesma entrada (para Java, Python, JS e C)
+## Como ler mais de uma variável numa mesma entrada (para Java, Python, JS e C, C#)
 
 - **Java:**
 ```java
@@ -165,6 +165,14 @@ let [a, b] = input().split(' ').map(Number);
 ```c
 int a, b;
 scanf("%d %d", &a, &b);
+```
+
+- **C#**
+```c#
+string[] input = Console.ReadLine().Split(); // Lê a linha e divide em partes
+int A = int.Parse(input[0]); // Converte o primeiro valor para inteiro
+int B = int.Parse(input[1]); // Converte o segundo valor para inteiro
+Console.WriteLine($"A = {A}, B = {B}");
 ```
 
 ## Fixar casas decimais (em Java, Python, JS e C)
