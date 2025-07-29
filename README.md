@@ -6,10 +6,10 @@ Aqui está o número de questões que resolvi em cada linguagem até o momento �
 |-----------|---------------------|
 | Java      | 7                   |
 | Python    | 8                   |
-| C         | 5                   |
+| C         | 6                   |
 | JavaScript| 8                   |
 | C#        | 5                   |
-| **Total** | 33                  |
+| **Total** | 34                  |
 
 
 # Cuidados em Programação
