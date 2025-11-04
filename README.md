@@ -23,11 +23,11 @@ Questões divididas por tópico:
 
 |          Tópico           |       Questões Resolvidas            |
 |---------------------------|--------------------------------------|
-| Iniciante                 | 35  ![](https://geps.dev/progress/87) |
-| Ad-Hoc                    |  2                                             |
-| Strings                   |  1                                             |
-| Estruturas e Bibliotecas  |  1                                             |
-| Matemática                |  1                                             |
+| Iniciante                 | 35 ![](https://geps.dev/progress/87) |
+| Ad-Hoc                    |  2![](https://geps.dev/progress/5)   |
+| Strings                   |  1  |
+| Estruturas e Bibliotecas  |  1  |
+| Matemática                |  1   |
 | **Total**                 | 40                                             |
 
 # Cuidados em Programação
