@@ -4,19 +4,19 @@ Questões divididas por linguagem de programação:
 
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
-| Java      |  8                  |
-| Python    |  8                  |
-| C         |  8                  |
-| JavaScript|  8                  |
-| C#        |  8                  |
+| Java      |  8 ![](https://geps.dev/progress/20) |
+| Python    |  8 ![](https://geps.dev/progress/20)|
+| C         |  8  ![](https://geps.dev/progress/20)|
+| JavaScript|  8  ![](https://geps.dev/progress/20)|
+| C#        |  8  ![](https://geps.dev/progress/20)|
 | **Total** | 40                  |
 
 Questões divididas por plataforma:
 
 | Site      | Questões Resolvidas |
 |-----------|---------------------|
-| Beecrowd  | 38                  |
-| LeetCode  |  2                  |
+| Beecrowd  | 38  ![](https://geps.dev/progress/95)               |
+| LeetCode  |  2  ![](https://geps.dev/progress/5)                |
 | **Total** | 40                  |
 
 Questões divididas por tópico:
