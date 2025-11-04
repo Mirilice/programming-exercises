@@ -28,7 +28,7 @@ Questões divididas por tópico:
 | Strings                   |  1  ![](https://geps.dev/progress/2)|
 | Estruturas e Bibliotecas  |  1  ![](https://geps.dev/progress/2)|
 | Matemática                |  1   ![](https://geps.dev/progress/2)|
-| **Total**                 | 40 <progress value="40" max="40"></progress> |
+| **Total**                 | 40 [=100% "100%"] |
 
 # Cuidados em Programação
 
