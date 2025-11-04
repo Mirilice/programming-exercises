@@ -4,20 +4,20 @@ Questões divididas por linguagem de programação:
 
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
-| Java      |  8 ![](https://geps.dev/progress/20) |
-| Python    |  8 ![](https://geps.dev/progress/20)|
-| C         |  8  ![](https://geps.dev/progress/20)|
-| JavaScript|  8  ![](https://geps.dev/progress/20)|
-| C#        |  8  ![](https://geps.dev/progress/20)|
+| Java      |  8                  |
+| Python    |  8                  |
+| C         |  8                  |
+| JavaScript|  8                  |
+| C#        |  8                  |
 | **Total** | 40                  |
 
 Questões divididas por plataforma:
 
-| Site      | Questões Resolvidas |
-|-----------|---------------------|
+| Site      |               Questões Resolvidas                   |
+|-----------|-----------------------------------------------------|
 | Beecrowd  | 38  ![](https://geps.dev/progress/95)               |
 | LeetCode  |  2  ![](https://geps.dev/progress/5)                |
-| **Total** | 40                  |
+| **Total** | 40                                                  |
 
 Questões divididas por tópico:
 
@@ -28,7 +28,7 @@ Questões divididas por tópico:
 | Strings                   |  1    ![](https://geps.dev/progress/2)  |
 | Estruturas e Bibliotecas  |  1    ![](https://geps.dev/progress/2)  |
 | Matemática                |  1    ![](https://geps.dev/progress/2)  |
-| **Total**                 | 40    ![](https://geps.dev/progress/100)|
+| **Total**                 | 40                                      |
 
 # Cuidados em Programação
 
