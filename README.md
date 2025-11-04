@@ -1,16 +1,34 @@
 # Quantidade de Questões Resolvidas por Linguagem
 
-Aqui está o número de questões que resolvi em cada linguagem até o momento 💻:
+Questões divididas por linguagem de programação:
 
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
-| Java      | 7                   |
-| Python    | 8                   |
-| C         | 8                   |
-| JavaScript| 8                   |
-| C#        | 8                   |
-| **Total** | 39                  |
+| Java      |  8                  |
+| Python    |  8                  |
+| C         |  8                  |
+| JavaScript|  8                  |
+| C#        |  8                  |
+| **Total** | 40                  |
 
+Questões divididas por plataforma:
+
+| Site      | Questões Resolvidas |
+|-----------|---------------------|
+| Beecrowd  | 38                  |
+| LeetCode  |  2                  |
+| **Total** | 40                  |
+
+Questões divididas por tópico:
+
+|          Tópico           | Questões Resolvidas                            |
+|---------------------------|------------------------------------------------|
+| Iniciante                 | 35 ![](https://geps.dev/progress/85)           |
+| Ad-Hoc                    |  2                                             |
+| Strings                   |  1                                             |
+| Estruturas e Bibliotecas  |  1                                             |
+| Matemática                |  1                                             |
+| **Total**                 | 40                                             |
 
 # Cuidados em Programação
 
