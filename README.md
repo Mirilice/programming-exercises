@@ -11,25 +11,6 @@ Questões divididas por linguagem de programação:
 | C#        |  8                  |
 | **Total** | 40                  |
 
-Questões divididas por plataforma:
-
-| Site      |               Questões Resolvidas                   |
-|-----------|-----------------------------------------------------|
-| Beecrowd  | 38  ![](https://geps.dev/progress/95)               |
-| LeetCode  |  2  ![](https://geps.dev/progress/5)                |
-| **Total** | 40                                                  |
-
-Questões divididas por tópico:
-
-|          Tópico           |       Questões Resolvidas               |
-|---------------------------|-----------------------------------------|
-| Iniciante                 | 35    ![](https://geps.dev/progress/89) |
-| Ad-Hoc                    |  2    ![](https://geps.dev/progress/5)  |
-| Strings                   |  1    ![](https://geps.dev/progress/2)  |
-| Estruturas e Bibliotecas  |  1    ![](https://geps.dev/progress/2)  |
-| Matemática                |  1    ![](https://geps.dev/progress/2)  |
-| **Total**                 | 40                                      |
-
 # Cuidados em Programação
 
 ## Erro de Apresentação (Presentation Error)
