@@ -21,14 +21,14 @@ Questões divididas por plataforma:
 
 Questões divididas por tópico:
 
-|          Tópico           |       Questões Resolvidas            |
-|---------------------------|--------------------------------------|
-| Iniciante                 | 35    ![](https://geps.dev/progress/87) |
-| Ad-Hoc                    |  2    ![](https://geps.dev/progress/5)   |
-| Strings                   |  1  ![](https://geps.dev/progress/2)|
-| Estruturas e Bibliotecas  |  1  ![](https://geps.dev/progress/2)|
-| Matemática                |  1   ![](https://geps.dev/progress/2)|
-| **Total**                 | 40 [=100% "100%"] |
+|          Tópico           |       Questões Resolvidas               |
+|---------------------------|-----------------------------------------|
+| Iniciante                 | 35    ![](https://geps.dev/progress/89) |
+| Ad-Hoc                    |  2    ![](https://geps.dev/progress/5)  |
+| Strings                   |  1    ![](https://geps.dev/progress/2)  |
+| Estruturas e Bibliotecas  |  1    ![](https://geps.dev/progress/2)  |
+| Matemática                |  1    ![](https://geps.dev/progress/2)  |
+| **Total**                 | 40    ![](https://geps.dev/progress/100)|
 
 # Cuidados em Programação
 
