@@ -21,9 +21,9 @@ Questões divididas por plataforma:
 
 Questões divididas por tópico:
 
-|          Tópico           | Questões Resolvidas                            |
-|---------------------------|------------------------------------------------|
-| Iniciante                 | 35 ![](https://geps.dev/progress/85)           |
+|          Tópico           |       Questões Resolvidas            |
+|---------------------------|--------------------------------------|
+| Iniciante                 | 35 ![](https://geps.dev/progress/87.5) |
 | Ad-Hoc                    |  2                                             |
 | Strings                   |  1                                             |
 | Estruturas e Bibliotecas  |  1                                             |
