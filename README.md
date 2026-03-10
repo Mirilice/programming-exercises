@@ -5,11 +5,11 @@ Questões divididas por linguagem de programação:
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
 | Java      |  8                  |
-| Python    |  8                  |
+| Python    |  9                  |
 | C         |  8                  |
 | JavaScript|  8                  |
 | C#        |  8                  |
-| **Total** | 40                  |
+| **Total** | 41                  |
 
 # Cuidados em Programação
 
