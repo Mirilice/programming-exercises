@@ -6,10 +6,10 @@ Questões divididas por linguagem de programação:
 |-----------|---------------------|
 | Java      |  9                  |
 | Python    |  9                  |
-| C         |  8                  |
+| C         |  9                  |
 | JavaScript|  8                  |
 | C#        |  8                  |
-| **Total** | 42                  |
+| **Total** | 43                  |
 
 # Cuidados em Programação
 
