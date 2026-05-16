@@ -4,12 +4,12 @@ Questões divididas por linguagem de programação:
 
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
-| Java      |  8                  |
+| Java      |  9                  |
 | Python    |  9                  |
 | C         |  8                  |
 | JavaScript|  8                  |
 | C#        |  8                  |
-| **Total** | 41                  |
+| **Total** | 42                  |
 
 # Cuidados em Programação
 
@@ -148,6 +148,36 @@ console.log(num); // 123
 Scanner input = new Scanner(System.in);
 int a = input.nextInt();
 int b = input.nextInt();
+```
+
+OBS: Diferença entre `next()` e `nextLine()` no Java
+
+`next()`: Lê a entrada até encontrar o primeiro delimitador (geralmente um espaço em branco ou quebra de linha). É ideal para ler palavras únicas ou dados separados por espaços (como "Thor 500").
+
+`nextLine()`: Lê toda a linha de entrada, incluindo os espaços, até encontrar uma quebra de linha (\n). É o método correto para ler frases completas (ex: "O martelo de Thor").
+
+O Problema do "Enter" Residual
+Quando usamos `nextInt()` ou `next()` e logo em seguida um `nextLine()`, o programa pode parecer "pular" a leitura da frase. Isso acontece porque o \n (Enter) digitado anteriormente ainda está no buffer.
+
+Como resolver:
+Sempre que for ler uma frase após ler um número, use um `nextLine()` vazio para "limpar" o buffer.
+
+Exemplo de uso:
+
+```java
+Scanner input = new Scanner(System.in);
+
+// Lendo um número
+int idade = input.nextInt(); 
+
+// Limpeza de buffer (Consome o "Enter" que sobrou)
+input.nextLine(); 
+
+// Agora o programa lerá a frase corretamente
+String frase = input.nextLine(); 
+
+System.out.println("Idade: " + idade + " | Bio: " + frase);
+input.close();
 ```
 
 - **Python**
