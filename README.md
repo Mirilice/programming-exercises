@@ -5,11 +5,11 @@ Questões divididas por linguagem de programação:
 | Linguagem | Questões Resolvidas |
 |-----------|---------------------|
 | Java      |  9                  |
-| Python    |  9                  |
+| Python    | 10                  |
 | C         |  9                  |
 | JavaScript|  8                  |
 | C#        |  8                  |
-| **Total** | 43                  |
+| **Total** | 44                  |
 
 # Cuidados em Programação
 
@@ -247,27 +247,6 @@ O método `join()` é usado para concatenar os elementos de uma lista ou tupla e
 lista = ['a', 'b', 'c']
 print(' '.join(lista))  # 'a b c'
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
